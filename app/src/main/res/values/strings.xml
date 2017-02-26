@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Praktika</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or Register</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="iv_cat_photo">Cat Photo</string>
+    <string name="btn_ok">Ok</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="type_your_cats_name">Type your cat\'s name</string>
+    <string name="choose_your_cats_photo">Choose your cat\'s photo</string>
+    <string name="no_image_error">Please, choose your cat\'s photo</string>
+    <string name="no_cat_name">No name</string>
+    <string name="welcome_phrase">Привет, меня зовут Джонни Кэтсвилл и сегодня ты будешь клацать мою практику</string>
+    <string name="error_message_uri">Сообщение об ошибке</string>
+    <string name="describe_your_error">Пожалуйста, опишите свою проблему.</string>
+    <string name="email_apps_not_found">Не найдено приложений для отправки почты.</string>
+    <string name="send_email">Отправить e-mail...</string>
+    <string name="menu_prompt_title">Tap here to see all app functions</string>
+    <string name="something_went_wrong">Something went wrong =(</string>
+</resources>

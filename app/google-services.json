@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812825626258",
+    "firebase_url": "https://praktika-c7a9d.firebaseio.com",
+    "project_id": "praktika-c7a9d",
+    "storage_bucket": "praktika-c7a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812825626258:android:d4a0c3082e4f0b8c",
+        "android_client_info": {
+          "package_name": "com.oopsappgroup.praktika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812825626258-kocoms90djmb02tm52jpv95pid9gj2qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oopsappgroup.praktika",
+            "certificate_hash": "BB3E2FBB5172FAE3F575D2928E17B3EBD54FCA30"
+          }
+        },
+        {
+          "client_id": "812825626258-v1ua831cvehfnbt7phegf0icb7e8jmau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFqsOo8KkswcFkZA5Wibid9oQMpMRX_uo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812825626258-v1ua831cvehfnbt7phegf0icb7e8jmau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">812825626258-v1ua831cvehfnbt7phegf0icb7e8jmau.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://praktika-c7a9d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">812825626258</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFqsOo8KkswcFkZA5Wibid9oQMpMRX_uo</string>
+    <string name="google_app_id" translatable="false">1:812825626258:android:d4a0c3082e4f0b8c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFqsOo8KkswcFkZA5Wibid9oQMpMRX_uo</string>
+    <string name="google_storage_bucket" translatable="false">praktika-c7a9d.appspot.com</string>
+</resources>

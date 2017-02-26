@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Praktika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_drawer.xml",
+        "source": "D:\\Praktika\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_drawer.xml"
+    },
+    {
+        "merged": "D:\\Praktika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "D:\\Praktika\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\Praktika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "F:\\Praktika\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\Praktika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_drawer.xml",
+        "source": "F:\\Praktika\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_drawer.xml"
+    },
+    {
+        "merged": "F:\\Praktika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "F:\\Praktika\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "D:\\Praktika\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "D:\\Praktika\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]

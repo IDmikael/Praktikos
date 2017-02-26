@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_welcome_page"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="Welcome Page" />
+        <item
+            android:id="@+id/nav_database"
+            android:icon="@android:drawable/ic_menu_delete"
+            android:title="Lazy cats DataBase" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item android:title="Sign out"
+                android:id="@+id/nav_signOut"
+                android:icon="@android:drawable/ic_menu_set_as" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send Bug Report" />
+        </menu>
+    </item>
+
+</menu>

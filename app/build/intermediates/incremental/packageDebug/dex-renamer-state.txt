@@ -1,0 +1,7 @@
+#Sun Feb 26 03:05:17 EET 2017
+base.0=D\:\\Praktika\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_423a59f9359ead901712bd3b08fd828d9a3b7617
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Praktika\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_087e20e2a51f28e7a8bf5f85089bea5fb5ef926b\\classes.dex
+base.1=D\:\\Praktika\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_087e20e2a51f28e7a8bf5f85089bea5fb5ef926b
+file.0=D\:\\Praktika\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_423a59f9359ead901712bd3b08fd828d9a3b7617\\classes.dex

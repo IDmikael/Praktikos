@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="MaterialTapTargetPromptTheme"/>
+    <attr format="boolean" name="autoDismiss"/>
+    <attr format="boolean" name="autoFinish"/>
+    <attr format="color" name="backgroundColour"/>
+    <attr format="integer" name="backgroundColourAlpha"/>
+    <attr format="boolean" name="captureTouchEventOnFocal"/>
+    <attr format="boolean" name="captureTouchEventOutsidePrompt"/>
+    <attr format="color" name="focalColour"/>
+    <attr format="integer" name="focalColourAlpha"/>
+    <attr format="dimension" name="focalRadius"/>
+    <attr format="dimension" name="focalToTextPadding"/>
+    <attr format="color" name="iconColourFilter"/>
+    <attr format="reference" name="iconTint"/>
+    <attr format="enum" name="iconTintMode">
+        <enum name="SRC_OVER" value="3"/>
+        <enum name="SRC_IN" value="5"/>
+        <enum name="SRC_ATOP" value="9"/>
+        <enum name="MULTIPLY" value="14"/>
+        <enum name="SCREEN" value="15"/>
+        <enum name="ADD" value="16"/>
+    </attr>
+    <attr format="dimension" name="maxTextWidth"/>
+    <attr format="string" name="primaryText"/>
+    <attr format="color" name="primaryTextColour"/>
+    <attr format="string" name="primaryTextFontFamily"/>
+    <attr format="dimension" name="primaryTextSize"/>
+    <attr format="enum" name="primaryTextStyle">
+        <enum name="normal" value="0"/>
+        <enum name="bold" value="1"/>
+        <enum name="italic" value="2"/>
+    </attr>
+    <attr format="enum" name="primaryTextTypeface">
+        <enum name="normal" value="0"/>
+        <enum name="sans" value="1"/>
+        <enum name="serif" value="2"/>
+        <enum name="monospace" value="3"/>
+    </attr>
+    <attr format="string" name="secondaryText"/>
+    <attr format="color" name="secondaryTextColour"/>
+    <attr format="string" name="secondaryTextFontFamily"/>
+    <attr format="dimension" name="secondaryTextSize"/>
+    <attr format="enum" name="secondaryTextStyle">
+        <enum name="normal" value="0"/>
+        <enum name="bold" value="1"/>
+        <enum name="italic" value="2"/>
+    </attr>
+    <attr format="enum" name="secondaryTextTypeface">
+        <enum name="normal" value="0"/>
+        <enum name="sans" value="1"/>
+        <enum name="serif" value="2"/>
+        <enum name="monospace" value="3"/>
+    </attr>
+    <attr format="reference" name="target"/>
+    <attr format="dimension" name="textPadding"/>
+    <attr format="dimension" name="textSeparation"/>
+    <declare-styleable name="PromptView"><attr name="target"/><attr name="primaryText"/><attr name="secondaryText"/><attr name="primaryTextColour"/><attr name="secondaryTextColour"/><attr name="backgroundColour"/><attr name="backgroundColourAlpha"/><attr name="focalColour"/><attr name="focalColourAlpha"/><attr name="focalRadius"/><attr name="primaryTextSize"/><attr name="secondaryTextSize"/><attr name="maxTextWidth"/><attr name="textPadding"/><attr name="focalToTextPadding"/><attr name="textSeparation"/><attr name="autoDismiss"/><attr name="autoFinish"/><attr name="captureTouchEventOutsidePrompt"/><attr name="captureTouchEventOnFocal"/><attr name="primaryTextFontFamily"/><attr name="secondaryTextFontFamily"/><attr name="primaryTextStyle"/><attr name="secondaryTextStyle"/><attr name="primaryTextTypeface"/><attr name="secondaryTextTypeface"/><attr name="iconTint"/><attr name="iconTintMode"/><attr name="iconColourFilter"/></declare-styleable>
+</resources>
