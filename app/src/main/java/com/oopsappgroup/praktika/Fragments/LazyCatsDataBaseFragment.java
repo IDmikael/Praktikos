@@ -93,9 +93,11 @@ public class LazyCatsDataBaseFragment extends Fragment {
         searchButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (!searchField.getText().toString().equals("")){
+                if (!searchField.getText().toString().equals("")) {
                     String searchText = searchField.getText().toString();
                     setRecyclerView(searchText);
+                }else {
+                    setRecyclerView(null);
                 }
             }
         });
