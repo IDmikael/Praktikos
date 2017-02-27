@@ -4,7 +4,7 @@
 ### Also i provided an oportunity to set photo to user's cat item. 
 ### I like native functions, so i made a Navigation Drawer.
 ### Also i like Glide library, so all images in this app are loading by it.
-### And the last one - i made Material Tap Target Promt with wonderful library.
+### And the last one - i made Material Tap Target Promt with this wonderful library.
 
 #Screenshots
 ![alt tag](https://github.com/IDmikael/Praktique/blob/master/MNVfTUocrTU.jpg)
